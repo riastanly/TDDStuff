@@ -1,0 +1,3 @@
+UPDATE users
+SET username = "poopie"
+WHERE username IS NULL;
